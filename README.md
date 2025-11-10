@@ -4,9 +4,9 @@
 ------
 Education
 
-🎓 MS in Computer & Information Technology @ Purdue University  
+🎓 MS in Computer & Information Technology (Data Science Focused)@ Purdue University , USA 
 
-🎓 BS in Computer Applications, Computer Science @ Purdue University  
+🎓 BS in Computer Applications, Computer Science @ Bharati Vidyapeeth University, India 
 
 ---
 
