@@ -11,14 +11,14 @@ Purdue University (West Lafayette, United States)
 Bharati Vidyapeeth University (Pune, India)
 - BS in Computer Applications, Computer Science
 
-🧠 About Me
+## 🧠 About Me
 
 I’m passionate about building data-driven systems that bridge the gap between raw information 
 and real business value. My work lies at the intersection of Data Engineering, 
 Machine Learning, and Cloud Infrastructure — where I design end-to-end solutions 
 from pipeline automation to analytics dashboards and model deployment.
 
-⚙️ Areas of Expertise
+##⚙️ Areas of Expertise
 
 🧱 Data Engineering
 - ETL / ELT pipelines (Airflow, dbt, Flink, Kafka, Spark)
@@ -55,7 +55,7 @@ from pipeline automation to analytics dashboards and model deployment.
 - Infrastructure as Code (Terraform, CloudFormation)
 - Continuous Integration / Deployment for data apps
 
-💻 Technical Skills
+##💻 Technical Skills
 
 Languages:         Python · SQL · R · Bash · Java (basic)
 Frameworks:        PySpark · Scikit-learn · TensorFlow · Pandas · NumPy
@@ -65,7 +65,7 @@ Visualization:     Power BI · Tableau · Looker Studio · Superset
 Version Control:   Git · GitHub Actions · CI/CD Pipelines
 Other:             Great Expectations · Docker · Kubernetes · PostgreSQL · Snowflake
 
-📈 Data & ML Model Skills
+##📈 Data & ML Model Skills
 
 - Descriptive, Diagnostic, Predictive, and Prescriptive Analytics
 - Data Preprocessing · Feature Engineering · EDA · Outlier Handling
@@ -76,7 +76,7 @@ Other:             Great Expectations · Docker · Kubernetes · PostgreSQL · S
 - Cross-Validation & Hyperparameter Tuning
 - Model Deployment (Flask, Streamlit, FastAPI)
 
-📊 Statistics & Data Skills
+##📊 Statistics & Data Skills
 
 - Probability Distributions · Hypothesis Testing · p-value · t/z Tests
 - Correlation & Regression Analysis
@@ -84,7 +84,7 @@ Other:             Great Expectations · Docker · Kubernetes · PostgreSQL · S
 - Data Sampling · Data Normalization · Feature Scaling
 - Business KPIs · Revenue & Customer Segmentation Analysis
 
-💼 Professional Snapshot
+##💼 Professional Snapshot
 
 🎓 Graduate Teaching Assistant — Purdue University  
    Mentoring 75 + students in Python, SQL & Data Management  
@@ -95,13 +95,13 @@ Other:             Great Expectations · Docker · Kubernetes · PostgreSQL · S
 🔬 Researcher — AI for Education & Cloud Optimization  
    Exploring LLM & data pipeline integration for education use cases  
 
-🏆 Certifications & Learning
+##🏆 Certifications & Learning
 
 🎓 Machine Learning Specialization by Andrew Ng  
 📊 Google Data Analytics Professional Certificate  
 
 
-📫 Connect With Me
+##📫 Connect With Me
 [💼 LinkedIn](https://www.linkedin.com/in/divaye/) | [📧 Email](mailto:behal.divaye@gmail.com) | [🌐 Portfolio Site](https://behald.github.io/)  
 
 ⭐ If you find my work helpful, don’t forget to star the repos!
