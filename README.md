@@ -10,14 +10,14 @@ Purdue University (West Lafayette, United States)
 
 Bharati Vidyapeeth University (Pune, India)
 - BS in Computer Applications, Computer Science
-
+---
 ## 🧠 About Me
 
 I’m passionate about building data-driven systems that bridge the gap between raw information 
 and real business value. My work lies at the intersection of Data Engineering, 
 Machine Learning, and Cloud Infrastructure — where I design end-to-end solutions 
 from pipeline automation to analytics dashboards and model deployment.
-
+---
 ##⚙️ Areas of Expertise
 
 🧱 Data Engineering
@@ -54,7 +54,7 @@ from pipeline automation to analytics dashboards and model deployment.
 - Monitoring (Prometheus, Grafana)
 - Infrastructure as Code (Terraform, CloudFormation)
 - Continuous Integration / Deployment for data apps
-
+---
 ##💻 Technical Skills
 
 Languages:         Python · SQL · R · Bash · Java (basic)
@@ -83,7 +83,7 @@ Other:             Great Expectations · Docker · Kubernetes · PostgreSQL · S
 - Confidence Intervals · ANOVA · Chi-Square
 - Data Sampling · Data Normalization · Feature Scaling
 - Business KPIs · Revenue & Customer Segmentation Analysis
-
+---
 ##💼 Professional Snapshot
 
 🎓 Graduate Teaching Assistant — Purdue University  
@@ -94,13 +94,13 @@ Other:             Great Expectations · Docker · Kubernetes · PostgreSQL · S
 
 🔬 Researcher — AI for Education & Cloud Optimization  
    Exploring LLM & data pipeline integration for education use cases  
-
+---
 ##🏆 Certifications & Learning
 
 🎓 Machine Learning Specialization by Andrew Ng  
 📊 Google Data Analytics Professional Certificate  
 
-
+---
 ##📫 Connect With Me
 [💼 LinkedIn](https://www.linkedin.com/in/divaye/) | [📧 Email](mailto:behal.divaye@gmail.com) | [🌐 Portfolio Site](https://behald.github.io/)  
 
