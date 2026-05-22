@@ -9,7 +9,7 @@ Purdue University (West Lafayette, United States)
 - MS in Computer & Information Tech
 
 Bharati Vidyapeeth University (Pune, India)
-- BS in Computer Applications, Computer Science
+- BS Computer Science
 
 ---
 ## 🧠 About Me
@@ -41,13 +41,6 @@ from pipeline automation to analytics dashboards and model deployment.
 - Generative AI (LLMs, RAG pipelines, Prompt Engineering)
 - NLP (Word2Vec, Transformers, BERT, OpenAI API)
 - Feature Engineering · EDA · Statistical Testing
-
-☁️ Cloud Engineering
-- AWS (S3, Glue, Athena, Redshift, IAM, Lambda, CloudWatch)
-- GCP (BigQuery, Cloud Composer, Dataflow, Pub/Sub)
-- Azure (Data Factory, Blob Storage)
-- Serverless architecture & CI/CD deployment
-- Cloud cost optimization & IAM controls
 
 🛠️ DevOps & Automation
 - Containerization & orchestration (Docker, Kubernetes)
