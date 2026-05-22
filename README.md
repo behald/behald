@@ -6,7 +6,7 @@
 ## 🎓 Education
 
 Purdue University (West Lafayette, United States)
-- MS in Computer & Information Tech (Data Science Focused)
+- MS in Computer & Information Tech
 
 Bharati Vidyapeeth University (Pune, India)
 - BS in Computer Applications, Computer Science
